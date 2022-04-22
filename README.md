@@ -8,10 +8,11 @@ After download, you can running this game with
 
 
 Pick a difficult level (1,2 or 3):
+```
 1 - Level Easy ( 1 than 10 )
 2 - Leve medium ( 1 than 100 )
 3 - Level expert ( 1 than 1000 )
-
+```
 
 
 ## Installation
