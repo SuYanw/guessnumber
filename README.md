@@ -1,6 +1,7 @@
 # Guess Number Game
 
-This is a simple Guess number game in Elixir.
+This is a simple Guess number game in Elixir. 
+You principal function is hit number chosen by software
 After download, you can running this game with
 ```
 	mix run
@@ -16,19 +17,5 @@ Pick a difficult level (1,2 or 3):
 
 
 ## Installation
-
-If [available in Hex](https://hex.pm/docs/publish), the package can be installed
-by adding `guess` to your list of dependencies in `mix.exs`:
-
-```elixir
-def deps do
-  [
-    {:guess, "~> 0.1.0"}
-  ]
-end
-```
-
-Documentation can be generated with [ExDoc](https://github.com/elixir-lang/ex_doc)
-and published on [HexDocs](https://hexdocs.pm). Once published, the docs can
-be found at <https://hexdocs.pm/guess>.
-
+You can download the project in folder, i'm considering you has installed Erland and Elixir lang in your computer,
+after downloaded, you can run with mix run
