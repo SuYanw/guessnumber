@@ -1,7 +1,8 @@
 # Guess Number Game
 
 This is a simple Guess number game in Elixir. 
-You principal function is hit number chosen by software
+The principal function is hit number chosen by software
+
 After download, you can running this game with
 ```
 	mix run
